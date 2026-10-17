@@ -11,3 +11,5 @@
 ## Kesan Pesan Cluster 3 sejauh ini
 [Cluster 3 adalah cluster yang memiliki ikatan pertemanan yang tinggi sehingga siapapun yang berada di cluster ini merasa dianggap seperti keluarga satu sama lain. Di cluster ini juga beragam kenangan telah aku ukir bersama]
 
+## Harapan Kuliah
+[Harapanku kuliah di program studi Teknik Informatika adalah mendapatkan pengetahuan baru tentang dunia pemrograman. Disisi lain, bisa mendapatkan ilmu yang bermanfaat sebagai bekalku mengikuti kompetisi yang besar.]
